@@ -89,4 +89,4 @@ This project is licensed under the Apache 2 license – see the [LICENSE.md](LI
 
 ## Acknowledgments
 - I could not have done this without [Hopper](https://www.hopperapp.com/) – It is an excellent tool for reverse-engineering and I have spent countless hours using it for this project.
-- The Messages team has fleshed out a truly remarkable ecosystem of frameworks and daemons. The struggles working with these APIs were due to a lack of documentation – the frameworks themselves are very feature-rich and easy to use once properly understood.
+- The Messages team has fleshed out a truly remarkable ecosystem of frameworks and daemons. The struggles working with these APIs were due to a lack of documentation – the frameworks themselves are very feature-rich and easy to use once properly understood
